@@ -1,4 +1,14 @@
 # A simple form validation application using javascript and regular expression
+
+## Installation
+```
+open terminal and type
+https://github.com/devmahmud/Javascript-Form-Validation.git
+
+or simply download using the url below
+https://github.com/devmahmud/Javascript-Form-Validation.git
+```
+
 ```
 To Run open "index.html" file in your browser
 ```
